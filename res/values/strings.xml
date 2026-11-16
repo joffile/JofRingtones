@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Рингтоны</string>
+    <string name="search">Поиск</string>
+    <string name="search_hint">Название или исполнитель</string>
+    <string name="close_search">Закрыть поиск</string>
+    <string name="refresh">Обновить</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_favorites">Избранное</string>
+    <string name="import_audio">Добавить файл</string>
+
+    <string name="permission_title">Нужен доступ к аудио</string>
+    <string name="permission_message">Приложение показывает только аудиотеку устройства и не передаёт файлы в интернет. Разрешите доступ к музыке и аудио, чтобы увидеть список мелодий.</string>
+    <string name="permission_grant">Разрешить доступ</string>
+    <string name="open_settings">Открыть настройки</string>
+
+    <string name="empty_title">Аудиофайлы не найдены</string>
+    <string name="empty_message">Добавьте свои мелодии кнопкой ниже — они появятся в системном выборе рингтонов.</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="nothing_found_message">Измените запрос или отключите фильтр «Избранное».</string>
+
+    <string name="play">Воспроизвести</string>
+    <string name="pause">Пауза</string>
+    <string name="close_player">Закрыть плеер</string>
+    <string name="add_favorite">В избранное</string>
+    <string name="remove_favorite">Убрать из избранного</string>
+    <string name="more_actions">Действия</string>
+    <string name="current_ringtone">Текущий рингтон</string>
+    <string name="unknown_artist">Неизвестный исполнитель</string>
+
+    <string name="set_ringtone">Установить как рингтон</string>
+    <string name="set_notification">Как звук уведомления</string>
+    <string name="set_alarm">Как сигнал будильника</string>
+    <string name="set_contact">Назначить контакту</string>
+    <string name="share">Поделиться</string>
+    <string name="delete">Удалить с устройства</string>
+
+    <string name="kind_ringtone">рингтон</string>
+    <string name="kind_notification">звук уведомления</string>
+    <string name="kind_alarm">сигнал будильника</string>
+    <string name="applied">Установлено: %1$s</string>
+    <string name="contact_assigned">Мелодия назначена контакту %1$s</string>
+    <string name="imported">Файл добавлен: %1$s</string>
+    <string name="deleted">Файл удалён</string>
+
+    <string name="error_load">Не удалось прочитать медиатеку</string>
+    <string name="error_apply">Не удалось установить мелодию</string>
+    <string name="error_playback">Ошибка воспроизведения (%1$d/%2$d)</string>
+    <string name="error_open_file">Файл недоступен или повреждён</string>
+    <string name="error_audio_focus">Аудио занято другим приложением</string>
+    <string name="write_settings_denied">Без разрешения «Изменение системных настроек» установка невозможна</string>
+    <string name="write_settings_unavailable">Настройки системы недоступны на этом устройстве</string>
+    <string name="contacts_denied">Нет доступа к контактам</string>
+    <string name="contact_failed">Не удалось обновить контакт</string>
+    <string name="delete_failed">Не удалось удалить файл</string>
+    <string name="import_failed">Не удалось добавить файл</string>
+</resources>
