@@ -1,0 +1,4 @@
+-dontwarn kotlinx.coroutines.**
+-dontwarn org.jetbrains.annotations.**
+-keepclassmembers class * extends androidx.lifecycle.ViewModel { <init>(...); }
+-keep class com.jof.ringtones.data.** { *; }
